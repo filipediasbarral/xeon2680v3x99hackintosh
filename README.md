@@ -19,19 +19,17 @@
 
 ## :white_check_mark: Working:
 
-- [x] CPU power management.
-- [x] Graphics acceleration.
+- [x] CPU power management
+- [x] Graphics acceleration
 - [x] Keyboard & Mouse
-- [x] Wi-Fi.
-- [x] USB ports.
-- [x] HDMI video & audio output.
-- [x] Ethernet.
-- [x] Audio (Internal speakers, 3.5mm headphone jack).
-- [x] Internal microphone.
-- [x] VGA WebCam.
-- [x] AirDrop & Handoff.
-- [x] iCloud & App Store.
-- [x] iMessage & FaceTime.
+- [x] Wi-Fi
+- [x] USB ports
+- [x] HDMI video & audio output
+- [x] Ethernet
+- [x] Audio (Internal speakers, 3.5mm headphone jack)
+- [x] AirDrop & Handoff
+- [x] iCloud & App Store
+- [x] iMessage & FaceTime
 
 ## 🛠️ Kexts:
 
@@ -44,7 +42,6 @@
 - [x] RtWlanU
 - [x] RtWlanU1827
 - [x] SMCProcessor
-- [x] SMCRadeonSensors
 - [x] SMCSuperIO
 - [x] USBMap
 - [x] VirtualSMC
@@ -53,6 +50,7 @@
 ## :x: Not working:
      
 - [x] Native Wi-Fi & Bluetooth
+- [x] Sleep
 
 ## :closed_lock_with_key: SMBIOS
 
